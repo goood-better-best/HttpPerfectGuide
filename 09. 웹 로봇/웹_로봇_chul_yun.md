@@ -77,3 +77,9 @@ Disallow:
 
 #### NONE
 * NOINDEX, NOFOLLOW 와 같다.
+
+---
+
+## 참고자료
+
+[HTTP 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261208&orderClick=LEA&Kc=)
