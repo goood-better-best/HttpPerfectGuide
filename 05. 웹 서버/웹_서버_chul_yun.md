@@ -63,3 +63,9 @@ Location 응답 헤더는 콘텐츠의 새로운 혹은 선호하는 위치에 �
 
 ### 단계 7: 로깅
 트랜잭션이 완료되었을 때, 웹 서버는 트랜잭션이 어떻게 수행되었는지에 대한 로그를 로그 파일에 기록한다.
+
+---
+
+## 참고자료
+
+[HTTP 완벽 가이드](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9788966261208&orderClick=LEA&Kc=)
